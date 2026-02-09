@@ -54,5 +54,3 @@ jobs:
         cache: maven
     - name: Unit Test Cases
       run: mvn test
-
-  
